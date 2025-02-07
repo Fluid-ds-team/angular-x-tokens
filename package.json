@@ -30,6 +30,7 @@
     "@angular/compiler-cli": "^19.1.0",
     "@chromatic-com/storybook": "^3.2.4",
     "@compodoc/compodoc": "^1.1.26",
+    "@engie-group/fluid-design-tokens": "^5.10.0",
     "@storybook/addon-docs": "^8.5.3",
     "@storybook/addon-essentials": "^8.5.3",
     "@storybook/addon-interactions": "^8.5.3",
